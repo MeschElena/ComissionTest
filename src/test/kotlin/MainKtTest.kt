@@ -19,7 +19,7 @@ class MainKtTest {
         )
 
         //assert
-        assertEquals(15000, result)
+        assertEquals(14000, result)
     }
 
     @Test
